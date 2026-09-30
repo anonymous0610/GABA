@@ -1,2 +1,2 @@
-Code for "GABA: Geometry-Aware Bilinear Attention for Linear Transformers" (under review).
+Code for "GABA" (under review).
 The full code will be uploaded shortly.
