@@ -27,11 +27,11 @@ import utils
 import os
 
 #import models
-from RALA_L import RAVLT_T, RAVLT_S, RAVLT_B, RAVLT_L
-# from RALA_NL import RAVLT_T, RAVLT_S, RAVLT_B, RAVLT_L
-# from GABA_M1_L import GABA_M1_L_T, GABA_M1_L_S, GABA_M1_L_B, GABA_M1_L_L
-# from GABA_M2_L import GABA_M2_L_T, GABA_M2_L_S, GABA_M2_L_B, GABA_M2_L_L
-# from GABA_NL import GABA_NL_T, GABA_NL_S, GABA_NL_B, GABA_NL_L
+from Models.RALA_L import RAVLT_T, RAVLT_S, RAVLT_B, RAVLT_L
+# from Models.RALA_NL import RAVLT_T, RAVLT_S, RAVLT_B, RAVLT_L
+# from Models.GABA_M1_L import GABA_M1_L_T, GABA_M1_L_S, GABA_M1_L_B, GABA_M1_L_L
+# from Models.GABA_M2_L import GABA_M2_L_T, GABA_M2_L_S, GABA_M2_L_B, GABA_M2_L_L
+# from Models.GABA_NL import GABA_NL_T, GABA_NL_S, GABA_NL_B, GABA_NL_L
 
 
 
